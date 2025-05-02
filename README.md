@@ -1,4 +1,4 @@
-![Banner](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg)
+![Banner]([https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg](https://t4.ftcdn.net/jpg/02/83/46/33/360_F_283463385_mfnrx6RPU3BqObhVuVjYZjeZ5pegE7xq.jpg))
 <h1> Hi there! 👋 I'm Ayush Maurya </h1>
 
 <h3>About Me</h3>
